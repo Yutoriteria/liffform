@@ -58,7 +58,7 @@
             $('form').submit(function () {
                 const naiyo    = $('textarea[name="naiyo"]').val();
                 
-                const msg = `${naiyo}`;
+                const msg = '【問い合わせ内容】¥n' + `${naiyo}`;
                 sendText(msg);
                 return false;
             });
