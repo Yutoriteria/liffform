@@ -56,7 +56,7 @@
 
         $(function () {
             $('form').submit(function () {
-                const naiyo    = $('input[name="naiyo"]').val();
+                const naiyo    = $('textarea[name="naiyo"]').val();
                 
                 const msg = `${naiyo}`;
                 sendText(msg);
