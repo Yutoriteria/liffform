@@ -20,7 +20,8 @@
                 "align": "center",
                 "gravity": "center",
                 "offsetTop": "0px",
-                "aspectMode": "cover"
+                "aspectMode": "cover",
+                "aspectRatio": "1:1.1"
               }
             ],
             "position": "relative",
@@ -106,7 +107,7 @@
                 "offsetStart": "0px",
                 "offsetEnd": "0px",
                 "position": "absolute",
-                "paddingAll": "15px"
+                "paddingAll": "8px"
               }
             ],
             "position": "absolute",
@@ -141,7 +142,8 @@
                 "position": "relative",
                 "offsetTop": "0px",
                 "align": "center",
-                "gravity": "center"
+                "gravity": "center",
+                "aspectRatio": "1:1.1"
               }
             ],
             "position": "relative",
@@ -236,7 +238,7 @@
             "offsetStart": "0px",
             "offsetEnd": "0px",
             "position": "absolute",
-            "paddingAll": "15px"
+            "paddingAll": "8px"
           }
         ],
         "paddingAll": "0px",
