@@ -119,8 +119,13 @@
             "offsetEnd": "0px"
           }
         ],
-        "height": "150px",
-        "paddingAll": "0px"
+        "paddingAll": "0px",
+        "maxHeight": "150px"
+      },
+      "action": {
+        "type": "uri",
+        "label": "action",
+        "uri": "https://www.instagram.com/yutoriteria/"
       }
     },
     {
